@@ -8,19 +8,24 @@ Interesting topics include:
 
 * lab1: Lissajous figures    
 
-lab2: Numerical Techniques 
+* lab2: Numerical Techniques 
 
-lab3: Differential Equations              
+* lab3: Differential Equations              
 
-lab4: Unix Shell, Version Control, and Makefiles.
+* lab4: Unix Shell, Version Control, and Makefiles.
 
-lab5: Symbolic Computing (Euler Angles)
+* lab5: Symbolic Computing (Euler Angles)
 
-lab6: The Grapefruit Problem (Mathematica)             
+* lab6: The Grapefruit Problem (Mathematica)             
 
-lab7: RSA Encryption
+* lab7: RSA Encryption
 
 Caltech Physics 21, https://bayard.caltech.edu/ph2x/info/-/blob/master/ph21.md
 
+Interesting topics include:
+
+* lab1: Web scrapper
+
+* lab2: Fast Fourier Transform
 
 Each individual subdirectory contains documentation for each project.
